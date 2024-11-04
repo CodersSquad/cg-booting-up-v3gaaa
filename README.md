@@ -20,17 +20,19 @@ This lab stands to prepare the moderngl development environment. Below the steps
 
 ## How to run your program
 
-```
-# Update this section with instructions on how to run your programs. 
+Install moderngl, numpy, PyGLM, objloader and pygame with pip install (library)
 
-# Consider that these instructions will be executed 
-in a completely new linux-based machine (Ubuntu 22.04),
-so, instructions for dependencies installation must be added.
-
-# It's highly recommended to use python virtual envs. 
-You may take a look on:
-https://docs.python.org/3/library/venv.html
+```bash
+pip install moderngl
 ```
+
+
+Run the file you want with this format: python (nombreDelArchivo)
+
+```bash
+python 01_hello_world.py
+```
+
 
 ## Grading Policy
 
